@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<img src="intro.png" width="600" align="center"  />
+</p>
 
 <!--
 **BradyPlanden/bradyplanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
