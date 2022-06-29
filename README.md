@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Intro.svg" width="600" align="center"  />
+<img src="Intro.svg" width="900" align="center"  />
 </p>
 
 <!--
